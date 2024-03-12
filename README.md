@@ -12,7 +12,7 @@ Inicialmente criei as imagens utilizando a Inteligencia Artificial Bing. Ocorrer
 Enfim o resultado obtido fora desenvolvido e escolhido pelo "Leonardo IA", trazendo trabalhos mais realistas e com cada vez menos falhas. 
 
 
-## 🚀 Resultados
+## Resultados
 Algumas imagens que fizeram-me questionar minha própria visão:
 
  <img src="https://cdn.leonardo.ai/users/18ae804a-1193-4cf8-889e-f3e08e4a3a24/generations/2b99a0f8-a0aa-4dce-af8a-7d9803451e93/Default_um_gato_dormindo_ao_por_do_sol_3.jpg?w=512" />
